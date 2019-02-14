@@ -1,2 +1,3 @@
 # classAndStruct
-difference between classes and structs
+
+- See the example above to understand a little more about structs and classes
