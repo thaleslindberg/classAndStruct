@@ -2,7 +2,7 @@
 /*
  
  - having a class is like giving somebody access to edit and change anything
- - classes cannot have inheritance
+ - classes can have inheritance
  */
 
 class GoogleSheet {
