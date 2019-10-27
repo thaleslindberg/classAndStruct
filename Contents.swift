@@ -22,7 +22,7 @@ print(newGoogleSheetCopy.message)
 
 /*
  
- - having structs the original file it ain't changed
+ - on the other hand in structs the original file it ain't changed
  - structs cannot have inheritance
  */
 struct ExcelSpreadSheet {
